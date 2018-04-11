@@ -1,5 +1,26 @@
-# awesome-ethereum
+<p align="center">
+    <img src="./logo.jpeg"
+         height="130">
+</p>
+<p align="center">
+    <a href="https://github.com/dily3825002/awesome-blockchain/network">
+        <img src="https://img.shields.io/github/forks/dily3825002/awesome-blockchain.svg"
+             alt="forks">
+    </a>
+    <a href="https://github.com/dily3825002/awesome-blockchain/stargazers">
+        <img src="https://img.shields.io/github/stars/dily3825002/awesome-blockchain.svg"
+             alt="stars">
+    </a>
+    <a href="./LICENSE.md">
+        <img src="https://img.shields.io/badge/license-GNU-blue.svg"
+             alt="license">
+    </a>
+</p>
+
+# 以太坊开发资源汇总 
+
 Web3.js、Solidity、Truffle教程及 ETH 开发资源汇总💯
+
 ## Web3.js 入门
 
 ETH 入门需要学习的第一部分，由于 Web3.js、testrpc 更新问题会导致有些示例跑不起来，但是我尽量标注出来需要如何处理。
