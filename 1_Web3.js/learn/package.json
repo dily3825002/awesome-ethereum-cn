@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "test.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "~"
+  },
+  "keywords": [
+    "~"
+  ],
+  "author": "dily",
+  "license": "ISC",
+  "dependencies": {
+    "solc": "^0.4.21",
+    "web3": "^0.20.1"
+  }
+}
