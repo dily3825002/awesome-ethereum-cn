@@ -3,12 +3,12 @@
          height="130">
 </p>
 <p align="center">
-    <a href="https://github.com/dily3825002/awesome-blockchain/network">
-        <img src="https://img.shields.io/github/forks/dily3825002/awesome-blockchain.svg"
+    <a href="https://github.com/dily3825002/awesome-ethereum/network">
+        <img src="https://img.shields.io/github/forks/dily3825002/awesome-ethereum.svg"
              alt="forks">
     </a>
-    <a href="https://github.com/dily3825002/awesome-blockchain/stargazers">
-        <img src="https://img.shields.io/github/stars/dily3825002/awesome-blockchain.svg"
+    <a href="https://github.com/dily3825002/awesome-ethereum/stargazers">
+        <img src="https://img.shields.io/github/stars/dily3825002/awesome-ethereum.svg"
              alt="stars">
     </a>
     <a href="./LICENSE.md">
@@ -94,3 +94,7 @@ go-ethereum的命令行终端，能调用go-ethereum的API。可以通过多种�
 * [深入浅出区块链](https://learnblockchain.cn/)
 * [区块链技术博客](http://me.tryblockchain.org/)
 
+## Tips
+
+有任何建议请联系我
+邮箱：dily3825002@163.com
