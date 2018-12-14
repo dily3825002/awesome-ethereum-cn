@@ -96,5 +96,11 @@ go-ethereum的命令行终端，能调用go-ethereum的API。可以通过多种�
 
 ## Tips
 
+<p align="center">
+都看到这里了不关注公众号么<br/>「这里文章不正经」<br/><br/>
+    <img src="./wechat.jpg"
+         height="130">
+</p>
+
 有任何建议请联系我
 邮箱：dily3825002@163.com
