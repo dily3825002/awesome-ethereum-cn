@@ -93,6 +93,7 @@ go-ethereum的命令行终端，能调用go-ethereum的API。可以通过多种�
 
 * [深入浅出区块链](https://learnblockchain.cn/)
 * [区块链技术博客](http://me.tryblockchain.org/)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Tips
 
